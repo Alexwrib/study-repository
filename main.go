@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"study/features"
+	feature1 "study/feature1"
 )
 
 func main() {
 	fmt.Println("Hello git!")
-	features.Feature1()
+	feature1.Feature1()
 
 
 	fmt.Println("Gelo belo")
